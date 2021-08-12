@@ -25,7 +25,7 @@ implementation
 
 procedure TForm2.Button1Click(Sender: TObject);
 begin
-    Button1.Caption := 'Hello'
+    Button1.Caption := 'Hello world';
 end;
 
 end.
