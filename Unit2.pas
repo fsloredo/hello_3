@@ -11,9 +11,7 @@ type
     Button1: TButton;
     procedure Button1Click(Sender: TObject);
   private
-    { Private declarations }
   public
-    { Public declarations }
   end;
 
 var
